@@ -76,6 +76,90 @@ const documents = [
         image: "img/thumbnails/rd/7.jpg",
         description: "El documento proporciona la Resolución del Ministerio de Medio Ambiente y Recursos Naturales de la República Dominicana, que establece los objetivos de manejo y los usos permitidos de la Categoría VI: Paisajes Protegidos. Se mencionan las coordenadas, extensiones terrestres y marinas de áreas específicas, así como referencias a convenciones internacionales y leyes nacionales relacionadas con la protección del medio ambiente.",
         type: "pdf"
+    },{ 
+        name: "Aporte de las mujeres, pueblos indígenas y comunidades locales", 
+        file: "docs/gt/Aportedelasmujerespueblosindigenasycomunidadeslocales.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/1.jpg",
+        description: "Aporte de las mujeres, pueblos indígenas y comunidades locales elaborado por el Consejo Nacional de Áreas Protegidas de Guatemala aborda la importancia de proteger el conocimiento tradicional y promover la conservación de la biodiversidad en el país, reconociendo el papel fundamental de las mujeres, pueblos indígenas y comunidades locales en la gestión sostenible de los recursos naturales.",
+        type: "pdf"
+    },{ 
+        name: "Década Restauración de Ecosistemas NU", 
+        file: "docs/gt/DecadaRestauraciondeEcosistemasNU.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/2.jpg",
+        description: "Es una guía detallada que presenta la Estrategia de la Década de las Naciones Unidas sobre la Restauración de Ecosistemas, aborda la visión, la teoría del cambio y las vías de implementación para la restauración y conservación de los recursos naturales a nivel mundial. ",
+        type: "pdf"
+    },{ 
+        name: "ERAM de CCAD", 
+        file: "docs/gt/ERAMdeCCAD.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/3.jpg",
+        description: "ERAM es un plan estratégico que establece los objetivos y acciones para mejorar la calidad ambiental de la región. Se enfoca en cinco ejes transversales: fortalecimiento de capacidades y gestión del conocimiento, marco legal y normativo, diálogo y coordinación intersectorial, investigación y desarrollo de tecnologías, y enfoque de género e interculturalidad.",
+        type: "pdf"
+    },{ 
+        name: "Estrategia Investigacion MC", 
+        file: "docs/gt/EstrategiaInvestigacionMC.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/4.jpg",
+        description: "Estrategia Nacional para la Investigación y Manejo de los Recursos Marino-Costeros (ENIMC) en Guatemala, brinda información sobre los Mapas de Valoración (MdV) como herramienta para evaluar el desempeño de las actividades implementadas.",
+        type: "pdf"
+    },{ 
+        name: "Diagnóstico de la ZMC del Caribe", 
+        file: "docs/gt/DiagnosticodelaZMCdelCaribe.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/5.jpg",
+        description: "Diagnóstico de la ZMC del Caribe es un informe diagnóstico sobre la zona marino-costera del Caribe de Guatemala. Se enfoca específicamente en el diseño y desarrollo de un sistema de monitoreo, evaluación y reporte (MER) para el Componente de Adaptación al Cambio Climático del Sistema Nacional de Información sobre Cambio Climático. ",
+        type: "pdf"
+    },{ 
+        name: "Estrategia Nacional de Diversidad Biológica Plan Acción 2012-2022", 
+        file: "docs/gt/EstrategiaNacionaldeDiversidadBiolPlanAccion.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/6.jpg",
+        description: "La Estrategia Nacional de Diversidad Biológica y su Plan de Acción 2012-2022 es un documento elaborado en Guatemala que establece las líneas estratégicas y acciones a seguir para la conservación, uso sostenible y distribución equitativa de los beneficios de la diversidad biológica en el país.",
+        type: "pdf"
+    },{ 
+        name: "Guatemala Biodiversity Local Works APS", 
+        file: "docs/gt/GuatemalaBiodiversityLocalWorksAPS.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/7.jpg",
+        description: "En esta enmienda, se hace un llamado a los actores locales para presentar documentos conceptuales para ser considerados en una adjudicación enfocada en la Conservación de la Biodiversidad en Áreas Protegidas Clave en Guatemala. También se describen las áreas protegidas designadas para el proyecto, que incluyen la Reserva de la Biosfera Maya y la Reserva de la Biosfera Sierra de las Minas.",
+        type: "pdf"
+    },{ 
+        name: "Gestión Integrada para la Sostenibilidad de los Humedales del Caribe", 
+        file: "docs/gt/GestionIntegradaparalaSostenibilidaddelosHumedalesdelCaribe.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/8.jpg",
+        description: "El programa busca conservar y usar de manera sostenible la diversidad biológica de los humedales en el Caribe. Incluye varios componentes como la rehabilitación de manglares, pastos marinos y corales, el manejo de la pesca artesanal, la promoción del biocomercio azul, el monitoreo del carbono azul, el fomento del ecoturismo, la construcción de infraestructura sostenible para la protección marino-costera, y la preservación de los bosques urbanos de manglar en áreas costeras. ",
+        type: "pdf"
+    },{ 
+        name: "Inventario de Humedales", 
+        file: "docs/gt/InventariodeHumedales.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/9.jpg",
+        description: "Inventario Nacional de los humedales de Guatemala, tiene como objetivo desarrollar un proceso para hacer un inventario nacional de humedales en Guatemala. También busca establecer lineamientos para la caracterización de humedales de importancia para la conservación, así como contar con un instrumento para orientar la toma de decisiones sobre conservación y manejo de los humedales en cuestión.",
+        type: "pdf"
+    },{ 
+        name: "Informe LEA_2019", 
+        file: "docs/gt/InformeLEA2019.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/10.jpg",
+        description: "Informe LEA es un informe final de un proyecto de consultoría realizado por M.Sc. Edgar Gustavo Ruano Fajardo en Guatemala el 25 de noviembre de 2019. El proyecto se centra en el fortalecimiento de la capacidad y el compromiso para combatir el tráfico de la vida silvestre en América Latina, específicamente en la actualización de la Lista de Especies Amenazadas del Consejo Nacional de Áreas Protegidas (CONAP) de Guatemala. ",
+        type: "pdf"
+    },{ 
+        name: "Política de Humedales de Guatemala", 
+        file: "docs/gt/PoliticadeHumedalesdeGuatemala.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/11.jpg",
+        description: "Se presenta la Política Nacional de Humedales para Guatemala, elaborada por el Consejo Nacional de Áreas Protegidas (CONAP) en septiembre de 2005. Contiene información sobre los antecedentes de la Convención sobre los Humedales, definiciones de humedales, características de la situación nacional, beneficios, riesgos y amenazas. ",
+        type: "pdf"
+    },{ 
+        name: "LEA-2021-CONAP-Diario-Oficial", 
+        file: "docs/gt/LEA2021CONAPDiarioOficial.pdf", 
+        countries: ["GT"],
+        image: "img/thumbnails/gt/12.jpg",
+        description: "Una edición del Diario de Centro América, publicada el 24 de junio de 2021. Contiene información oficial del Organismo Ejecutivo de la República de Guatemala, incluyendo acuerdos gubernativos y ministeriales, así como convocatorias y publicaciones varias.",
+        type: "pdf"
     },
 ];
 
@@ -115,11 +199,27 @@ const countryNames = {
     "BZ": "Belice"
 };
 
+
+// Mapeo de colores representativos de cada país (basados en sus banderas)
+const countryColors = {
+    "MX": "#006847", // Verde de la bandera de México
+    "GT": "#4997D0", // Azul celeste de Guatemala
+    "HN": "#18A3AC", // Azul turquesa de Honduras
+    "SV": "#0F47AF", // Azul oscuro de El Salvador
+    "NI": "#0067C6", // Azul de Nicaragua
+    "CR": "#002B7F", // Azul oscuro de Costa Rica
+    "PA": "#005293", // Azul de Panamá
+    "CO": "#FCD116", // Amarillo de Colombia
+    "RD": "#002D62", // Azul de República Dominicana
+    "BZ": "#CE1126"  // Rojo de Belice
+};
+
 // Función para generar el HTML dinámico de un documento
 function generateDocumentHTML(doc) {
-    const countryBadges = doc.countries.map(country => 
-        `<span class="badge badge-info">${countryNames[country]}</span>`
-    ).join(' ');
+    const countryBadges = doc.countries.map(country => {
+        const color = countryColors[country] || '#6c757d'; // Color gris por defecto si no está definido
+        return `<span class="badge" style="background-color: ${color}; color: white;">${countryNames[country]}</span>`;
+    }).join(' ');
 
     return `
         <div class="document-item">
@@ -262,7 +362,8 @@ function updateActiveFilters() {
     let filtersHTML = '';
     
     if (currentCountry !== 'all') {
-        filtersHTML += `<span class="badge badge-info">País: ${countryNames[currentCountry]}</span>`;
+        const color = countryColors[currentCountry] || '#6c757d';
+        filtersHTML += `<span class="badge" style="background-color: ${color}; color: white;">País: ${countryNames[currentCountry]}</span>`;
     }
     
     if (searchTerm) {
@@ -271,6 +372,7 @@ function updateActiveFilters() {
     
     activeFilters.innerHTML = filtersHTML || '<span class="text-muted">No hay filtros aplicados</span>';
 }
+
 
 // Función para filtrar documentos según categoría, país y búsqueda
 function filterDocuments() {
