@@ -24,7 +24,57 @@ const documents = [
         file: "docs/sv/ProgramaNacionaldeConservaciondeFelinos.pdf", 
         countries: ["SV"],
         image: "img/thumbnails/sv/3.jpg",
-        description: "Este programa es una iniciativa del Ministerio de Medio Ambiente y Recursos Naturales (MARN) y el Fondo de Inversión Ambiental de El Salvador (FIAES). El PNCF tiene como objetivo la conservación de las especies de felinos en El Salvador, que han sido poco estudiadas en el país",
+        description: "Este programa es una iniciativa del Ministerio de Medio Ambiente y Recursos Naturales (MARN) y el Fondo de Inversión Ambiental de El Salvador (FIAES). El PNCF tiene como objetivo la conservación de las especies de felinos en El Salvador, que han sido poco estudiadas en el país.",
+        type: "pdf"
+    },    
+    { 
+        name: "Guía restauración de ecosistemas RD", 
+        file: "docs/rd/GuiarestauraciondeecosistemasRD.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/1.jpg",
+        description: "Este documento recopila experiencias de restauración ecológica implementadas en más de 50 lugares en todo el país, abarcando diversos tipos de ecosistemas como humedales, ecosistemas terrestres y cuencas hidrográficas.",
+        type: "pdf"
+    },    { 
+        name: "Ley Forestal", 
+        file: "docs/rd/LeyForestal.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/2.jpg",
+        description: "Ley Sectorial Forestal de la República Dominicana es una legislación que tiene como propósito regular y promover el manejo forestal sostenible de los bosques en el país. ",
+        type: "pdf"
+    },  { 
+        name: "Ley Sectorial Biodiversidad", 
+        file: "docs/rd/LeySectorialBiodiversidad.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/3.jpg",
+        description: "La Ley Sectorial sobre Biodiversidad fue publicada en el Diario Oficial de la República Dominicana el 17 de diciembre de 2015. Contiene considerandos que establecen la importancia de la biodiversidad para el desarrollo sostenible del país, así como los deberes y responsabilidades del Estado y de los ciudadanos en su conservación y uso sostenible.",
+        type: "pdf"
+    }, { 
+        name: "Ley 202-04 Ley sectorial de Áreas Protegidas", 
+        file: "docs/rd/Ley202-04LeysectorialdeAreasProtegidas.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/4.jpg",
+        description: "La Ley Sectorial de Áreas Protegidas garantiza la conservación y preservación de muestras representativas de los diferentes ecosistemas del patrimonio natural y cultural de la República Dominicana. Además, establece principios y objetivos para el uso sostenible de las áreas protegidas y promueve la cooperación internacional y la adopción de incentivos para la conservación.",
+        type: "pdf"
+    },{ 
+        name: "Reglamento Ley Forestal", 
+        file: "docs/rd/ReglamentoLeyForestal.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/5.jpg",
+        description: "El reglamento ley forestal es un plan de manejo para el patrimonio forestal que detalla las actividades a implementar en los bosques y terrenos de aptitud forestal, tanto públicos como privados, que deben permanecer con cobertura forestal según la legislación vigente.",
+        type: "pdf"
+    },{ 
+        name: "Res. No. 0010-2018 Dispone la normativa manejo de las zonas de amortiguamiento SINAP", 
+        file: "docs/rd/Res-No-0010-2018.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/6.jpg",
+        description: "El reglamento ley forestal es un plan de manejo para el patrimonio forestal que detalla las actividades a implementar en los bosques y terrenos de aptitud forestal, tanto públicos como privados, que deben permanecer con cobertura forestal según la legislación vigente.",
+        type: "pdf"
+    },{ 
+        name: "Res. No. 0009-2018 Dispone los objetivos de manejo y usos permitidos categoria VI paisajes protegidos", 
+        file: "docs/rd/Res-No-0009-2018.pdf", 
+        countries: ["RD"],
+        image: "img/thumbnails/rd/7.jpg",
+        description: "El documento proporciona la Resolución del Ministerio de Medio Ambiente y Recursos Naturales de la República Dominicana, que establece los objetivos de manejo y los usos permitidos de la Categoría VI: Paisajes Protegidos. Se mencionan las coordenadas, extensiones terrestres y marinas de áreas específicas, así como referencias a convenciones internacionales y leyes nacionales relacionadas con la protección del medio ambiente.",
         type: "pdf"
     },
 ];
