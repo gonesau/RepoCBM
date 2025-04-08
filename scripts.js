@@ -160,6 +160,83 @@ const documents = [
         image: "img/thumbnails/gt/12.jpg",
         description: "Una edición del Diario de Centro América, publicada el 24 de junio de 2021. Contiene información oficial del Organismo Ejecutivo de la República de Guatemala, incluyendo acuerdos gubernativos y ministeriales, así como convocatorias y publicaciones varias.",
         type: "pdf"
+    },{ 
+        name: "Iguana Verde", 
+        file: "docs/ni/IGUANAVERDE.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/1.jpg",
+        description: "El documento es un manual sobre la Iguana Verde (Iguana iguana), que forma parte de la estrategia nacional Biodiversidad, tu solución basada en la naturaleza. Su objetivo es proporcionar información clara y sencilla sobre el manejo y la reproducción en cautiverio de esta especie, promoviendo la conservación y el uso responsable de la biodiversidad.",
+        type: "pdf"
+    },{ 
+        name: "Guardatinaja Guia", 
+        file: "docs/ni/GUARDATINAJA_guia.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/2.jpg",
+        description: "Este documento, elaborado por el Gobierno de Reconciliación y Unidad Nacional (GRUN) a través del Ministerio del Ambiente y los Recursos Naturales (MARENA), tiene como objetivo promover la conservación y el uso responsable de la fauna silvestre.",
+        type: "pdf"
+    },{ 
+        name: "Garrobo Negro", 
+        file: "docs/ni/GARROBONEGRO.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/3.jpg",
+        description: "Este manual forma parte de la estrategia nacional Biodiversidad: Tu Solución Basada en la Naturaleza. Su objetivo es presentar de manera clara y sencilla los principios para el manejo en cautiverio de la especie Garrobo negro.",
+        type: "pdf"
+    },{ 
+        name: "Venado Guia", 
+        file: "docs/ni/VENADOguia.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/4.jpg",
+        description: "El manual “Biodiversidad, tu solución basada en la naturaleza”, enfocado en el manejo en cautiverio del venado cola blanca (Odocoileus virginianus). Fue elaborado por el Ministerio del Ambiente y los Recursos Naturales (MARENA) de Nicaragua, dentro de una estrategia para la conservación y aprovechamiento sostenible de la fauna silvestre.",
+        type: "pdf"
+    },{ 
+        name: "Armadillo Guia", 
+        file: "docs/ni/ARMADILLOguia.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/5.jpg",
+        description: "El documento es un manual elaborado por el Ministerio del Ambiente y los Recursos Naturales (MARENA) de Nicaragua, como parte de la estrategia nacional “Biodiversidad, tu solución basada en la naturaleza”. Este manual está destinado a la conservación y manejo en cautiverio del armadillo (Dasypus novemcinctus), proporcionando pautas claras para su crianza.",
+        type: "pdf"
+    },{ 
+        name: "Conejo Guia", 
+        file: "docs/ni/CONEJOguia.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/6.jpg",
+        description: "El manual Biodiversidad, tu solución basada en la naturaleza del Gobierno de Reconciliación y Unidad Nacional (GRUN) a través del Ministerio del Ambiente y los Recursos Naturales (MARENA) se centra en la promoción del manejo y reproducción en cautiverio de conejos (Oryctolagus cuniculus) como una estrategia para el aprovechamiento sostenible de la biodiversidad.",
+        type: "pdf"
+    },{ 
+        name: "Manual de Buenas Prácticas Ambientales para la Prevención de Incendios Forestales en Áreas Protegidas", 
+        file: "docs/ni/ManualdeBuenasPracticasAmbientalesparalaPrevenciondeIncendiosForestalesenareasProtegidas.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/7.jpg",
+        description: "El documento es un manual que aborda buenas prácticas ambientales para prevenir incendios en áreas protegidas de Nicaragua, destacando la importancia de conservar los recursos naturales y la biodiversidad. Se analizan diferentes tipos de incendios y se proponen estrategias de educación, comunicación y participación ciudadana para su prevención.",
+        type: "pdf"
+    },{ 
+        name: "Manual de Murcielagos del Parque Nacional  Volcán Masaya", 
+        file: "docs/ni/ManualdeMurcielagosdelParqueNacionalVolcanMasaya.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/8.jpg",
+        description: "El documento es un informe técnico o presentación que examina las diversas especies de murciélagos que habitan el Parque Nacional Volcán Masaya en Nicaragua, destacando su importancia ecológica, en particular en la polinización, y sus interacciones con diversos insectos y plantas. Detalla varias especies de murciélagos, como Pteronotus, Mormoops, Rhynchonycteris y Carollia, junto con sus características únicas y funciones ecológicas.",
+        type: "pdf"
+    },{ 
+        name: "Manual de Demarcación Fisica de Áreas Protegidas", 
+        file: "docs/ni/ManualdeDemarcacionFisicadeareasProtegidas.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/9.jpg",
+        description: "El documento proporcionan especificaciones técnicas y procedimientos exhaustivos para la demarcación e instalación de mojones, señales de vida silvestre y paneles informativos en áreas protegidas de Nicaragua. Detalla los materiales, dimensiones y procesos de instalación de mojones de hormigón armado, señalización y boyas, haciendo hincapié en el control de calidad, las consideraciones medioambientales y la participación de la comunidad.",
+        type: "pdf"
+    },{ 
+        name: "Manual de Viveros de Tortugas Marinas en Nicaragua", 
+        file: "docs/ni/ManualdeViverosdeTortugasMarinasenNicaragua.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/10.jpg",
+        description: "El manual del Ministerio del Ambiente y los Recursos Naturales de Nicaragua proporciona directrices sobre el establecimiento y manejo de viveros para la conservación de tortugas marinas, destacando su importancia en la protección de huevos y la supervivencia de especies en peligro.",
+        type: "pdf"
+    },{ 
+        name: "Manual Rana de Ojos Rojos", 
+        file: "docs/ni/MANUALRANAOJOSROJOSguia.pdf", 
+        countries: ["NI"],
+        image: "img/thumbnails/ni/11.jpg",
+        description: "El documento es un manual que proporciona directrices sobre la crianza en cautiverio de la Rana de Ojos Rojos (Agalychnis callidryas), elaborado por el Gobierno de Reconciliación y Unidad Nacional de Nicaragua a través del Ministerio del Ambiente y los Recursos Naturales. Incluye información sobre la biología de la especie, sus hábitos reproductivos, la construcción de recintos adecuados, su alimentación en cautiverio y el proceso de apareamiento, con el objetivo de promover el manejo sostenible de la biodiversidad y mejorar las condiciones de vida de las comunidades locales.",
+        type: "pdf"
     },
 ];
 
