@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #ffffff;
 }
 
 /* Banner */
@@ -15,7 +15,7 @@ body {
 
 /* Estilos para la sección de landing */
 .cbm-landing {
-    background-color: #f8f9fa;
+    background-color: #ffffff;
     padding: 3rem 0;
     border-bottom: 1px solid #e9ecef;
 }
