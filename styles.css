@@ -4,14 +4,12 @@ body {
     background-color: #ffffff;
 }
 
-/* Banner */
-.banner img {
-    width: 100%;
-    height: auto;
-    max-height: 200px;
-    object-fit: cover;
-}
 
+.justified-text {
+    text-align: justify;
+    text-justify: inter-word; /* Mejor distribución para español */
+    hyphens: auto; /* Para separación silábica en navegadores modernos */
+}
 
 /* Estilos para la sección de landing */
 .cbm-landing {
@@ -68,7 +66,7 @@ body {
 .cbm-plan-description {
     color: #7f8c8d;
     font-size: 1.1rem;
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
