@@ -14,8 +14,8 @@ body {
 /* Estilos para la sección de landing */
 .cbm-landing {
     background-color: #ffffff;
-    padding: 3rem 0;
-    border-bottom: 1px solid #e9ecef;
+    padding: 1rem 0;
+    border-bottom: 1px solid #ffffff;
 }
 
 .cbm-title {
